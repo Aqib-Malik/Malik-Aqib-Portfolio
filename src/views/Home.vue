@@ -12545,10 +12545,10 @@ html {
   background-color: #1a252f;
 }
 #hea{
-  background-color:#B44A56;
+  background-color:#00539CFF;
 }
 #wrap{
-  background-color:#F9F5F4;
+  background-color:whitesmoke;
 }
 #myimg{
   border-radius: 50%;

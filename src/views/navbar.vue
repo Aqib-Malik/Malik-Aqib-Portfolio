@@ -7,10 +7,10 @@
         navbar navbar-expand-sm
         py-3
         navbar-dark
-        bg-dark
         shadow-sm
         fixed-top
       "
+      style="background-color: #FFD662FF;"
     >
       <div class="container">
         <a href="#" class="navbar-brand">
@@ -39,22 +39,22 @@
 
         <b-collapse id="nav-collapse" is-nav>
           <b-navbar-nav>
-            <ul class="navbar-nav ml-auto">
+            <ul class="navbar-nav ml-auto nav-pills">
               <li class="nav-item active">
                 <a href="#" class="nav-link"
                   >Home <span class="sr-only">(current)</span></a
                 >
               </li>
-              <li class="nav-item">
+              <li class="nav-item active">
                 <a href="#about" class="nav-link">About</a>
               </li>
-              <li class="nav-item">
+              <li class="nav-item active">
                 <a href="#portfolio" class="nav-link">Portfolio</a>
               </li>
-              <li class="nav-item">
+              <li class="nav-item active">
                 <a href="#skill" class="nav-link">Skills</a>
               </li>
-              <li class="nav-item">
+              <li class="nav-item active">
                 <a href="#contact" class="nav-link">Contact</a>
               </li>
             </ul>
@@ -73,12 +73,14 @@ export default {
 };
 </script>
 <style scoped>
-#Navv{
-  background-color: #FADC54;
-}
+
 img {
   
   border-radius: 50%;
   
 }
+#nav li :hover {
+  background-color: #87CEEB;
+}
+
 </style>
