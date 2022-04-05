@@ -47,7 +47,7 @@
           <div class="divider-custom-line"></div>
         </div>
         <!-- Portfolio Grid Items-->
-        <div class="row justify-content-center">
+        <div id="postapps" class="row justify-content-center">
           <!-- Portfolio Item 1-->
           <div v-on:click="gotoGoogle('https://github.com/Aqib-Malik/blog_site_vue')" class="col-md-6 col-lg-4 mb-5">
             <div
@@ -12552,5 +12552,8 @@ html {
 }
 #myimg{
   border-radius: 50%;
+}
+#postapps{
+  margin: 10%;
 }
 </style>
