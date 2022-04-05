@@ -8,7 +8,7 @@
         <!-- Masthead Avatar Image-->
         <img id="myimg"
           class="masthead-avatar mb-5"
-          src="../assets/img/aqib4.jpg"
+          src="../assets/img/aqib6.jpg"
           alt="..."
         />
         <!-- Masthead Heading-->

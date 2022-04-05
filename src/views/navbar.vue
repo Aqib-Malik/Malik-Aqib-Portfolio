@@ -10,13 +10,13 @@
         shadow-sm
         fixed-top
       "
-      style="background-color: #FFD662FF;"
+      style="background-color: #E9BA3C;"
     >
       <div class="container">
         <a href="#" class="navbar-brand">
           <!-- Logo Image -->
           <img
-            src="../assets/img/profile.jpg"
+            src="../assets/img/aqib6.jpg"
             width="45"
             alt=""
             class="d-inline-block align-middle mr-2"
