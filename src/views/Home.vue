@@ -49,7 +49,7 @@
         <!-- Portfolio Grid Items-->
         <div id="postapps" class="row justify-content-center">
           <!-- Portfolio Item 1-->
-          <div v-on:click="gotoGoogle('https://github.com/Aqib-Malik/blog_site_vue')" class="col-md-6 col-lg-4 mb-5">
+          <div v-on:click="gotoGoogle('https://programmingblog.herokuapp.com/')" class="col-md-6 col-lg-4 mb-5">
             <div
               class="portfolio-item mx-auto"
               data-bs-toggle="modal"
