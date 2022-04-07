@@ -29,13 +29,13 @@
             </div>
             <h3 class="progress-title">Dart</h3>
             <div class="progress">
-                <div class="progress-bar" style="width:90%; background:#f2545b;">
+                <div class="progress-bar" style="width:94%; background:#f2545b;">
                     <div class="progress-value">94%</div>
                 </div>
             </div>
             <h3 class="progress-title">Firebase</h3>
             <div class="progress">
-                <div class="progress-bar" style="width:80%; background:rgb(255,204,48);">
+                <div class="progress-bar" style="width:88%; background:rgb(255,204,48);">
                     <div class="progress-value">88%</div>
                 </div>
             </div>
