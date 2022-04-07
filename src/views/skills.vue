@@ -36,7 +36,7 @@
             <h3 class="progress-title">Firebase</h3>
             <div class="progress">
                 <div class="progress-bar" style="width:80%; background:rgb(255,204,48);">
-                    <div class="progress-value">80%</div>
+                    <div class="progress-value">88%</div>
                 </div>
             </div>
             <h3 class="progress-title">Api Intigration</h3>
