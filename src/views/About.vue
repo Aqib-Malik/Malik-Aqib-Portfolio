@@ -15,10 +15,19 @@
           <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
           <div class="divider-custom-line"></div>
         </div>
+        
       
     <div class="container">
     <div class="main-body">
-    
+      <div class="card-body">
+        <div class="card">
+                <div class="card-body">
+    <p>
+          Hi, I'm a Full Stack Developer, passionate about creating and developing Mobile Apps(Android+IOS) & web Apps. I've 1.5+ year of experience in this area of work, with multiple quality projects.
+        </p>
+                </div>
+        </div>
+      </div>
           <!-- /Breadcrumb -->
     
           <div class="row gutters-sm">
