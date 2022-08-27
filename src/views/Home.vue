@@ -52,10 +52,15 @@
           <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
           <div class="divider-custom-line"></div>
         </div>
-        <!-- Portfolio Grid Items-->
-        <div id="postapps" class="row justify-content-center">
-          <!-- Portfolio Item 1-->
-          <div v-on:click="gotoGoogle('https://github.com/Aqib-Malik/Programming_Blogs')" class="col-md-6 col-lg-4 mb-5">
+
+
+
+
+
+
+<h1 class="mb-5 mt-5">Web Apps</h1>
+ <div id="postapps" class="row justify-content">
+  <div v-on:click="gotoGoogle('https://eliteecw.com/')" class="col-md-6 col-lg-4 mb-5">
             <div
               class="portfolio-item mx-auto"
               data-bs-toggle="modal"
@@ -74,18 +79,202 @@
                 <div
                   class="portfolio-item-caption-content text-center text-white"
                 >
-                <h5>Programming blogs website(Vue+Django)</h5>
+                <h3>Elite (website)</h3>
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
               
               <img
                 class="img-fluid"
-                src="../assets/img/proapp.jpeg"
+                src="../assets/img/elite_site.jpg"
                 alt="..."
               />
             </div>
           </div>
+         <!-- Portfolio Item 1-->
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         <div v-on:click="gotoGoogle('https://eazyticks.com/')" class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModal1"
+            >
+              <div
+                class="
+                  portfolio-item-caption
+                  d-flex
+                  align-items-center
+                  justify-content-center
+                  h-100
+                  w-100
+                "
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                <h3>Eazy Ticks (website)</h3>
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              
+              <img
+                class="img-fluid"
+                src="../assets/img/eazt_ticks_site.jpg"
+                alt="..."
+              />
+            </div>
+          </div>
+          <div v-on:click="gotoGoogle('https://www.mybevego.com/')" class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModal1"
+            >
+              <div
+                class="
+                  portfolio-item-caption
+                  d-flex
+                  align-items-center
+                  justify-content-center
+                  h-100
+                  w-100
+                "
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                <h3>Bevego website</h3>
+                <!-- <h4>Website</h4> -->
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              
+              <img
+                class="img-fluid"
+                src="../assets/img/bevego.jpg"
+                alt="..."
+              />
+            </div>
+          </div>
+          <div v-on:click="gotoGoogle('https://nikis.com.au/')" class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModal1"
+            >
+              <div
+                class="
+                  portfolio-item-caption
+                  d-flex
+                  align-items-center
+                  justify-content-center
+                  h-100
+                  w-100
+                "
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                <h3>Beauty Crop</h3>
+                <h4>Website</h4>
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              
+              <img
+                class="img-fluid"
+                src="../assets/img/beauty_crop.jpg"
+                alt="..."
+              />
+            </div>
+          </div>
+          <!-- Portfolio Item 4-->
+           <div v-on:click="gotoGoogle('https://github.com/Aqib-Malik')" class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModal2"
+            >
+              <div
+                class="
+                  portfolio-item-caption
+                  d-flex
+                  align-items-center
+                  justify-content-center
+                  h-100
+                  w-100
+                "
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                <h5>Other Projects</h5>
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              
+              <img
+                class="img-fluid"
+                src="https://image.shutterstock.com/image-photo/abbreviation-et-cetera-word-written-260nw-1904407825.jpg"
+                alt="..."
+              />
+              
+            </div>
+          </div>
+         
+         
+         
+         
+  
+ </div>
+<h1 class="mb-5 mt-5">Mob Apps</h1>
+
+<div id="postapps" class="row justify-content">
+  <!-- Portfolio Item 1-->
+            <div v-on:click="gotoGoogle('https://play.google.com/store/apps/details?id=com.ezyticks')" class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModal1"
+            >
+              <div
+                class="
+                  portfolio-item-caption
+                  d-flex
+                  align-items-center
+                  justify-content-center
+                  h-100
+                  w-100
+                "
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                <h3>Eazy Ticks App</h3>
+                <h4>Flutter (ios+android</h4>
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              
+              <img
+                class="img-fluid"
+                src="../assets/img/easyticks.jpeg"
+                alt="..."
+              />
+            </div>
+          </div>
+         
           <!-- Portfolio Item 2-->
           <div v-on:click="gotoGoogle('https://github.com/Aqib-Malik/WallPaper-App')" class="col-md-6 col-lg-4 mb-5">
             <div
@@ -150,7 +339,69 @@
               />
             </div>
           </div>
+          <!-- Portfolio Item 4-->
+           <div v-on:click="gotoGoogle('https://github.com/Aqib-Malik')" class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModal2"
+            >
+              <div
+                class="
+                  portfolio-item-caption
+                  d-flex
+                  align-items-center
+                  justify-content-center
+                  h-100
+                  w-100
+                "
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                <h5>Other Projects</h5>
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              
+              <img
+                class="img-fluid"
+                src="https://image.shutterstock.com/image-photo/abbreviation-et-cetera-word-written-260nw-1904407825.jpg"
+                alt="..."
+              />
+              
+            </div>
+          </div>
+         
 
+  
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+ 
+<h1 class="mb-5 mt-5">Desktop Apps</h1>
+
+
+
+
+
+
+
+        
+        <!-- Portfolio DeskTop Grid Items-->
+        <div id="postapps" class="row justify-content">
+         
            <!-- Portfolio Item 4-->
           <div v-on:click="gotoGoogle('https://github.com/Aqib-Malik/banking-system-c-')" class="col-md-6 col-lg-4 mb-5">
             <div
@@ -220,6 +471,39 @@
           </div>
           
           <!-- Portfolio Item 4-->
+           <div v-on:click="gotoGoogle('https://github.com/Aqib-Malik')" class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModal2"
+            >
+              <div
+                class="
+                  portfolio-item-caption
+                  d-flex
+                  align-items-center
+                  justify-content-center
+                  h-100
+                  w-100
+                "
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                <h5>Other Projects</h5>
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              
+              <img
+                class="img-fluid"
+                src="https://image.shutterstock.com/image-photo/abbreviation-et-cetera-word-written-260nw-1904407825.jpg"
+                alt="..."
+              />
+              
+            </div>
+          </div>
+         
           
         </div>
       </div>
@@ -12622,7 +12906,9 @@ html {
   background-color: #1a252f;
 }
 #hea {
-  background-color: #00539cff;
+  background-color:#00539cff;
+   /* #020a0e; */
+  
 }
 #wrap {
   background-color: whitesmoke;

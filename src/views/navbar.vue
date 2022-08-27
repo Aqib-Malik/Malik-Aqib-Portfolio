@@ -11,6 +11,7 @@
         fixed-top
       "
       style="background-color: #E9BA3C;"
+        
     >
       <div class="container">
         <a href="#" class="navbar-brand">
@@ -82,5 +83,5 @@ img {
 #nav li :hover {
   background-color: #87CEEB;
 }
-
+ /* #E9BA3C;" */
 </style>
