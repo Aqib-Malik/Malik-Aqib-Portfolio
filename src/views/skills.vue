@@ -80,6 +80,13 @@
                     <div class="progress-value">90%</div>
                 </div>
             </div>
+               <h3 class="progress-title">React.js</h3>
+            <div class="progress">
+                <div class="progress-bar" style="width:80%; background:#212121;">
+                    <div class="progress-value">80%</div>
+                </div>
+            </div>
+         
             <h3 class="progress-title">One Page</h3>
             <div class="progress">
                 <div class="progress-bar" style="width:80%; background:rgb(255,204,48);">

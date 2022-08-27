@@ -12,6 +12,12 @@
           alt="..."
         />
         <!-- Masthead Heading-->
+        <!-- <iframe src="../assets/logo.jpg" style="width: 100%;height: 100%;border: none;"></iframe> -->
+        <!-- <embed src="s../assets/Malik.pdf" type="application/pdf"   height="300px" width="100%" class="responsive">
+<a href="../assets/Malik.pdf">download</a> -->
+        <!-- <p><a href="../assets/Malik.pdf" download>Download Resume</a></p>
+<a href="../assets/Malik.pdf" download><button id="dwnbtn" type="button" class="btn btn-lg" v-on:click="downloadResume()">Download Resume</button></a>
+<br> -->
         <h1 class="masthead-heading text-uppercase mb-0">Malik Aqib Mehmood <span class="sr-only">(current)</span></h1>
         <!-- Icon Divider-->
         <div class="divider-custom divider divider-light">
@@ -704,13 +710,14 @@ Online 24/7
 
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
+import HelloWorld from "@/components/HelloWorld.vue";
 import About from "./About.vue";
 import navbar from "./navbar.vue";
 import skills from "./skills.vue";
 import contact from "./contact.vue";
 export default {
-  name: 'Home',
+  name: "Home",
+  
   components: {
     About,
     navbar,
@@ -721,8 +728,9 @@ export default {
     gotoGoogle(link) {
       window.open(link);
     },
+    downloadResume() {},
   },
-}
+};
 </script>
 <style>
 @charset "UTF-8";
@@ -12457,7 +12465,7 @@ html {
     Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
-  background-color: #90D4E0;
+  background-color: #90d4e0;
 }
 #mainNav .navbar-brand {
   color: #fff;
@@ -12613,16 +12621,20 @@ html {
 .copyright {
   background-color: #1a252f;
 }
-#hea{
-  background-color:#00539CFF;
+#hea {
+  background-color: #00539cff;
 }
-#wrap{
-  background-color:whitesmoke;
+#wrap {
+  background-color: whitesmoke;
 }
-#myimg{
+#myimg {
   border-radius: 50%;
 }
-#postapps{
+#postapps {
   margin: 10%;
+}
+#dwnbtn {
+  background-color: #e9ba3c;
+  color: #fff;
 }
 </style>
