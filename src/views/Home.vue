@@ -55,7 +55,7 @@
         <!-- Portfolio Grid Items-->
         <div id="postapps" class="row justify-content-center">
           <!-- Portfolio Item 1-->
-          <div v-on:click="gotoGoogle('https://programmingblog.herokuapp.com/')" class="col-md-6 col-lg-4 mb-5">
+          <div v-on:click="gotoGoogle('https://github.com/Aqib-Malik/Programming_Blogs')" class="col-md-6 col-lg-4 mb-5">
             <div
               class="portfolio-item mx-auto"
               data-bs-toggle="modal"
@@ -286,7 +286,7 @@
             <h4 class="text-uppercase mb-4">Experience & Support</h4>
             <p class="lead mb-0">
               
-              1.5+ Year
+              2+ Year
 Experience
               <br />
               30+ Projects

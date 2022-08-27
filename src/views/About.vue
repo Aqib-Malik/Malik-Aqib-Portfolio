@@ -23,7 +23,7 @@
         <div class="card">
                 <div class="card-body">
     <p>
-          Hi, I'm a Full Stack Developer, passionate about creating and developing Mobile Apps(Android+IOS) & web Apps. I've 1.5+ year of experience in this area of work, with multiple quality projects.
+          Hi, I'm a Full Stack Developer, passionate about creating and developing Mobile Apps(Android+IOS) & web Apps. I've 2+ year of experience in this area of work, with multiple quality projects.
         </p>
                 </div>
         </div>
@@ -115,6 +115,17 @@
                     </div>
                   </div>
                   <hr>
+                   <hr>
+                  <div class="row">
+                    <div class="col-sm-3">
+                      <h6 class="mb-0">Current Job</h6>
+                    </div>
+                    <div class="col-sm-9 text-secondary">
+                      Madhan Solutions(Software House Islamabad)
+                    </div>
+                  </div>
+                  <hr>
+                 
                   
                 </div>
               </div>

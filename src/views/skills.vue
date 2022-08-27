@@ -35,8 +35,14 @@
             </div>
             <h3 class="progress-title">Firebase</h3>
             <div class="progress">
-                <div class="progress-bar" style="width:88%; background:rgb(255,204,48);">
-                    <div class="progress-value">88%</div>
+                <div class="progress-bar" style="width:90%; background:rgb(255,204,48);">
+                    <div class="progress-value">90%</div>
+                </div>
+            </div>
+            <h3 class="progress-title">Google Maps</h3>
+            <div class="progress">
+                <div class="progress-bar" style="width:92%; background:#32A350;">
+                    <div class="progress-value">92%</div>
                 </div>
             </div>
             <h3 class="progress-title">Api Intigration</h3>
