@@ -58,8 +58,53 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 class="mb-5 mt-5">Web Apps</h1>
  <div id="postapps" class="row justify-content">
+  <div v-on:click="gotoGoogle('https://nikis.com.au/')" class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModal1"
+            >
+              <div
+                class="
+                  portfolio-item-caption
+                  d-flex
+                  align-items-center
+                  justify-content-center
+                  h-100
+                  w-100
+                "
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                <h3>Nikis (website)</h3>
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              
+              <img
+                class="img-fluid"
+                src="../assets/img/nikis_site.jpg"
+                alt="..."
+              />
+            </div>
+          </div>
+  
   <div v-on:click="gotoGoogle('https://eliteecw.com/')" class="col-md-6 col-lg-4 mb-5">
             <div
               class="portfolio-item mx-auto"
@@ -167,7 +212,7 @@
               />
             </div>
           </div>
-          <div v-on:click="gotoGoogle('https://nikis.com.au/')" class="col-md-6 col-lg-4 mb-5">
+          <div v-on:click="gotoGoogle('https://thebeautycrop.com/')" class="col-md-6 col-lg-4 mb-5">
             <div
               class="portfolio-item mx-auto"
               data-bs-toggle="modal"
@@ -238,6 +283,21 @@
          
   
  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 class="mb-5 mt-5">Mob Apps</h1>
 
 <div id="postapps" class="row justify-content">
@@ -390,15 +450,18 @@
 
 
  
+
+
+
+
+
+
+
+
+
+
 <h1 class="mb-5 mt-5">Desktop Apps</h1>
-
-
-
-
-
-
-
-        
+    
         <!-- Portfolio DeskTop Grid Items-->
         <div id="postapps" class="row justify-content">
          
