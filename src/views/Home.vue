@@ -57,6 +57,222 @@
 
 
 
+        <h1 class="mb-5 mt-5">Mob Apps</h1>
+
+<div id="postapps" class="row justify-content">
+   <!-- Portfolio Item 2-->
+   <div v-on:click="gotoGoogle('https://apps.apple.com/pk/app/elite-run-app/id6443928319')" class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModal2"
+            >
+              <div
+                class="
+                  portfolio-item-caption
+                  d-flex
+                  align-items-center
+                  justify-content-center
+                  h-100
+                  w-100
+                "
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                <h5>Elite App(ios+android)</h5>
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              
+              <img
+                class="img-fluid"
+                src="../assets/img/elite_app.jpeg"
+                alt="..."
+              />
+              
+            </div>
+          </div>
+
+
+          <!-- Portfolio Item 2-->
+   <div v-on:click="gotoGoogle('https://play.google.com/store/apps/details?id=com.positifyy.quoteapp')" class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModal2"
+            >
+              <div
+                class="
+                  portfolio-item-caption
+                  d-flex
+                  align-items-center
+                  justify-content-center
+                  h-100
+                  w-100
+                "
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                <h5>Positify App(ios+android)</h5>
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              
+              <img
+                class="img-fluid"
+                src="../assets/img/positify_app.jpeg"
+                alt="..."
+              />
+              
+            </div>
+          </div>
+         
+  <!-- Portfolio Item 1-->
+            <div v-on:click="gotoGoogle('https://play.google.com/store/apps/details?id=com.ezyticks')" class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModal1"
+            >
+              <div
+                class="
+                  portfolio-item-caption
+                  d-flex
+                  align-items-center
+                  justify-content-center
+                  h-100
+                  w-100
+                "
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                <h3>Eazy Ticks App</h3>
+                <h4>Flutter (ios+android)</h4>
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              
+              <img
+                class="img-fluid"
+                src="../assets/img/easyticks.jpeg"
+                alt="..."
+              />
+            </div>
+          </div>
+         
+          <!-- Portfolio Item 2-->
+          <div v-on:click="gotoGoogle('https://github.com/Aqib-Malik/WallPaper-App')" class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModal2"
+            >
+              <div
+                class="
+                  portfolio-item-caption
+                  d-flex
+                  align-items-center
+                  justify-content-center
+                  h-100
+                  w-100
+                "
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                <h5>Wallpapers(Flutter)</h5>
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              
+              <img
+                class="img-fluid"
+                src="../assets/img/waapp.jpeg"
+                alt="..."
+              />
+              
+            </div>
+          </div>
+          <!-- Portfolio Item 3-->
+          <div v-on:click="gotoGoogle('https://drive.google.com/file/d/19nR1t5LTz0erE9fEshhQyUT4ngMXAYRu/view?usp=sharing')" class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModal3"
+            >
+              <div
+                class="
+                  portfolio-item-caption
+                  d-flex
+                  align-items-center
+                  justify-content-center
+                  h-100
+                  w-100
+                "
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                <h5>Niki's App(Android)</h5>
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img
+                class="img-fluid"
+                src="../assets/img/niapp.jpeg"
+                alt="..."
+              />
+            </div>
+          </div>
+          <!-- Portfolio Item 4-->
+           <div v-on:click="gotoGoogle('https://github.com/Aqib-Malik')" class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModal2"
+            >
+              <div
+                class="
+                  portfolio-item-caption
+                  d-flex
+                  align-items-center
+                  justify-content-center
+                  h-100
+                  w-100
+                "
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                <h5>Other Projects</h5>
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              
+              <img
+                class="img-fluid"
+                src="https://image.shutterstock.com/image-photo/abbreviation-et-cetera-word-written-260nw-1904407825.jpg"
+                alt="..."
+              />
+              
+            </div>
+          </div>
+         
+
+  
+
+
+</div>
+
+
+
+
+
+
+
 
 
 
@@ -297,147 +513,6 @@
 
 
 
-
-<h1 class="mb-5 mt-5">Mob Apps</h1>
-
-<div id="postapps" class="row justify-content">
-  <!-- Portfolio Item 1-->
-            <div v-on:click="gotoGoogle('https://play.google.com/store/apps/details?id=com.ezyticks')" class="col-md-6 col-lg-4 mb-5">
-            <div
-              class="portfolio-item mx-auto"
-              data-bs-toggle="modal"
-              data-bs-target="#portfolioModal1"
-            >
-              <div
-                class="
-                  portfolio-item-caption
-                  d-flex
-                  align-items-center
-                  justify-content-center
-                  h-100
-                  w-100
-                "
-              >
-                <div
-                  class="portfolio-item-caption-content text-center text-white"
-                >
-                <h3>Eazy Ticks App</h3>
-                <h4>Flutter (ios+android</h4>
-                  <i class="fas fa-plus fa-3x"></i>
-                </div>
-              </div>
-              
-              <img
-                class="img-fluid"
-                src="../assets/img/easyticks.jpeg"
-                alt="..."
-              />
-            </div>
-          </div>
-         
-          <!-- Portfolio Item 2-->
-          <div v-on:click="gotoGoogle('https://github.com/Aqib-Malik/WallPaper-App')" class="col-md-6 col-lg-4 mb-5">
-            <div
-              class="portfolio-item mx-auto"
-              data-bs-toggle="modal"
-              data-bs-target="#portfolioModal2"
-            >
-              <div
-                class="
-                  portfolio-item-caption
-                  d-flex
-                  align-items-center
-                  justify-content-center
-                  h-100
-                  w-100
-                "
-              >
-                <div
-                  class="portfolio-item-caption-content text-center text-white"
-                >
-                <h5>Wallpapers(Flutter)</h5>
-                  <i class="fas fa-plus fa-3x"></i>
-                </div>
-              </div>
-              
-              <img
-                class="img-fluid"
-                src="../assets/img/waapp.jpeg"
-                alt="..."
-              />
-              
-            </div>
-          </div>
-          <!-- Portfolio Item 3-->
-          <div v-on:click="gotoGoogle('https://github.com/Aqib-Malik')" class="col-md-6 col-lg-4 mb-5">
-            <div
-              class="portfolio-item mx-auto"
-              data-bs-toggle="modal"
-              data-bs-target="#portfolioModal3"
-            >
-              <div
-                class="
-                  portfolio-item-caption
-                  d-flex
-                  align-items-center
-                  justify-content-center
-                  h-100
-                  w-100
-                "
-              >
-                <div
-                  class="portfolio-item-caption-content text-center text-white"
-                >
-                <h5>Ecomerce + Social media App(Flutter & Firebase)</h5>
-                  <i class="fas fa-plus fa-3x"></i>
-                </div>
-              </div>
-              <img
-                class="img-fluid"
-                src="../assets/img/niapp.jpeg"
-                alt="..."
-              />
-            </div>
-          </div>
-          <!-- Portfolio Item 4-->
-           <div v-on:click="gotoGoogle('https://github.com/Aqib-Malik')" class="col-md-6 col-lg-4 mb-5">
-            <div
-              class="portfolio-item mx-auto"
-              data-bs-toggle="modal"
-              data-bs-target="#portfolioModal2"
-            >
-              <div
-                class="
-                  portfolio-item-caption
-                  d-flex
-                  align-items-center
-                  justify-content-center
-                  h-100
-                  w-100
-                "
-              >
-                <div
-                  class="portfolio-item-caption-content text-center text-white"
-                >
-                <h5>Other Projects</h5>
-                  <i class="fas fa-plus fa-3x"></i>
-                </div>
-              </div>
-              
-              <img
-                class="img-fluid"
-                src="https://image.shutterstock.com/image-photo/abbreviation-et-cetera-word-written-260nw-1904407825.jpg"
-                alt="..."
-              />
-              
-            </div>
-          </div>
-         
-
-  
-
-
-</div>
 
 
 
