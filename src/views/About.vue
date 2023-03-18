@@ -35,10 +35,11 @@
               <div class="card">
                 <div class="card-body">
                   <div class="d-flex flex-column align-items-center text-center">
-                    <img src="../assets/img/profile.jpg" alt="Admin" class="rounded-circle" width="150">
+                    <img src="../assets/img/prof2.jpg" alt="Admin" class="rounded-circle" width="150">
                     <div class="mt-3">
                       <h4>Malik Aqib Mehmood</h4>
-                      <p class="text-secondary mb-1">Full Stack Developer</p>
+                      <p class="text-secondary mb-1">Software Developer</p>
+                      <p class="text-secondary mb-1">BS(Computer Science), Comsats University</p>
                       <p class="text-muted font-size-sm">Pakistan, Rawalpindi, Wahcantt</p>
                     </div>
                   </div>
@@ -118,11 +119,15 @@
                    <hr>
                   <div class="row">
                     <div class="col-sm-3">
-                      <h6 class="mb-0">Current Job</h6>
+                      <h6 class="mb-0">Jobs</h6>
                     </div>
                     <div class="col-sm-9 text-secondary">
-                      Madhan Solutions(Software House Islamabad)
+                      DAXNO Techs(Senior Flutter Developer/Team Lead)<br>
+                      Madhan Solutions(Software Developer) 
+
+                      
                     </div>
+                    
                   </div>
                   <hr>
                  
