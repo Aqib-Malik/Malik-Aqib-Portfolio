@@ -96,7 +96,7 @@
 
 
           <!-- Portfolio Item 2-->
-   <div v-on:click="gotoGoogle('https://play.google.com/store/apps/details?id=com.positifyy.quoteapp')" class="col-md-6 col-lg-4 mb-5">
+   <div v-on:click="gotoGoogle('https://play.google.com/store/apps/details?id=com.positifyyy.quoteapp&pcampaignid=web_share')" class="col-md-6 col-lg-4 mb-5">
             <div
               class="portfolio-item mx-auto"
               data-bs-toggle="modal"
@@ -163,6 +163,134 @@
             </div>
           </div>
          
+         
+
+          <!-- Portfolio Item 4-->
+          <div v-on:click="gotoGoogle('https://play.google.com/store/apps/details?id=com.mtec.wilson_tours_app&pcampaignid=web_share')" class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModal3"
+            >
+              <div
+                class="
+                  portfolio-item-caption
+                  d-flex
+                  align-items-center
+                  justify-content-center
+                  h-100
+                  w-100
+                "
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                <h5>Wilson Tours Africa</h5>
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img
+                class="img-fluid"
+                src="../assets/img/wilsontour.webp"
+                alt="..."
+              />
+            </div>
+          </div>
+          <!-- Portfolio Item 5-->
+          <div v-on:click="gotoGoogle('https://drive.google.com/file/d/19nR1t5LTz0erE9fEshhQyUT4ngMXAYRu/view?usp=sharing')" class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModal3"
+            >
+              <div
+                class="
+                  portfolio-item-caption
+                  d-flex
+                  align-items-center
+                  justify-content-center
+                  h-100
+                  w-100
+                "
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                <h5>Fake Call Prank App</h5>
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img
+                class="img-fluid"
+                src="../assets/img/fakecall.webp"
+                alt="..."
+              />
+            </div>
+          </div>
+
+                    <!-- Portfolio Item 5-->
+                    <div v-on:click="gotoGoogle('https://play.google.com/store/apps/details?id=com.appfinin.tasbeeh.counter.digitaltasbeeh&pcampaignid=web_share')" class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModal3"
+            >
+              <div
+                class="
+                  portfolio-item-caption
+                  d-flex
+                  align-items-center
+                  justify-content-center
+                  h-100
+                  w-100
+                "
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                <h5>Dhikr App</h5>
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img
+                class="img-fluid"
+                src="../assets/img/dhikr.webp"
+                alt="..."
+              />
+            </div>
+          </div>
+
+           <!-- Portfolio Item 3-->
+           <div v-on:click="gotoGoogle('https://drive.google.com/file/d/19nR1t5LTz0erE9fEshhQyUT4ngMXAYRu/view?usp=sharing')" class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModal3"
+            >
+              <div
+                class="
+                  portfolio-item-caption
+                  d-flex
+                  align-items-center
+                  justify-content-center
+                  h-100
+                  w-100
+                "
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                <h5>Niki's App(Android)</h5>
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img
+                class="img-fluid"
+                src="../assets/img/niapp.jpeg"
+                alt="..."
+              />
+            </div>
+          </div>
           <!-- Portfolio Item 2-->
           <div v-on:click="gotoGoogle('https://github.com/Aqib-Malik/WallPaper-App')" class="col-md-6 col-lg-4 mb-5">
             <div
@@ -196,38 +324,8 @@
               
             </div>
           </div>
-          <!-- Portfolio Item 3-->
-          <div v-on:click="gotoGoogle('https://drive.google.com/file/d/19nR1t5LTz0erE9fEshhQyUT4ngMXAYRu/view?usp=sharing')" class="col-md-6 col-lg-4 mb-5">
-            <div
-              class="portfolio-item mx-auto"
-              data-bs-toggle="modal"
-              data-bs-target="#portfolioModal3"
-            >
-              <div
-                class="
-                  portfolio-item-caption
-                  d-flex
-                  align-items-center
-                  justify-content-center
-                  h-100
-                  w-100
-                "
-              >
-                <div
-                  class="portfolio-item-caption-content text-center text-white"
-                >
-                <h5>Niki's App(Android)</h5>
-                  <i class="fas fa-plus fa-3x"></i>
-                </div>
-              </div>
-              <img
-                class="img-fluid"
-                src="../assets/img/niapp.jpeg"
-                alt="..."
-              />
-            </div>
-          </div>
-          <!-- Portfolio Item 4-->
+          
+          <!-- Portfolio Item 6-->
            <div v-on:click="gotoGoogle('https://github.com/Aqib-Malik')" class="col-md-6 col-lg-4 mb-5">
             <div
               class="portfolio-item mx-auto"
@@ -708,10 +806,10 @@
             <h4 class="text-uppercase mb-4">Experience & Support</h4>
             <p class="lead mb-0">
               
-              2+ Year
+              3+ Year
 Experience
               <br />
-              30+ Projects
+              60+ Projects
 Completed
             <br>
             Support

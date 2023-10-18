@@ -23,7 +23,7 @@
         <div class="card">
                 <div class="card-body">
     <p>
-          Hi, I'm a Full Stack Developer, passionate about creating and developing Mobile Apps(Android+IOS) & web Apps. I've 2+ year of experience in this area of work, with multiple quality projects.
+          Hi, I'm a Full Stack Developer, passionate about creating and developing Mobile Apps(Android+IOS) & web Apps. I've 3+ year of experience in this area of work, with multiple quality projects.
         </p>
                 </div>
         </div>
